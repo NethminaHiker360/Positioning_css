@@ -2,9 +2,7 @@
     height: 100px;
     width: 100px;
     background-color: red;
-    position: absolute;
-    left: 200px;
-    top: 200px;
+    position: fixed;
 }
 
 .blue{
