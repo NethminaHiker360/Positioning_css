@@ -1,26 +1,4 @@
-.red{
-    height: 100px;
-    width: 100px;
-    background-color: red;
-    position: fixed;
-}
-
-.blue{
-    height: 100px;
-    width: 100px;
-    background-color: blue;
-    position: absolute;
-    left: 100px;
-    top: 100px;
-}
-
-.yellow{
-    height: 100px;
-    width: 100px;
-    background-color: yellow;
-    position: absolute;
-}
-
 body{
-    margin: 0;
+    background-color: #D6E8DB;
+    text-align: center;
 }
