@@ -1,26 +1,39 @@
-body{
-    background-color: #D6E8DB;
-    text-align: center;
-    font-family: 'Poppins', sans-serif;
-
+body {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
 }
 
-h1{
-    margin: 0 auto;
-    font-family: 'Delicious Handrawn', cursive;
+.handWriteName {
+  margin: 0 auto;
+  font-family: 'Delicious Handrawn', cursive;
 }
 
-.middle-cloud{
-    position: absolute;
-    left: 30%;
+.middle-cloud {
+  position: absolute;
+  left: 30%;
 }
 
-.top-cloud{
-    position: absolute;
-    right: 30%;
-    top: 20px;
+.top-cloud {
+  position: absolute;
+  right: 30%;
+  top: 20px;
 }
 
-.top-container{
-    padding: 60px;
+.top-container {
+  padding: 60px;
+  background-color: #d6e8db;
+}
+
+.myPicture {
+  width: 150px;
+  border-radius: 90%;
+  background-color: #fff8de;
+}
+
+.camera-img {
+  border-radius: 90%;
+}
+
+.img-computer {
+  border-radius: 90%;
 }
