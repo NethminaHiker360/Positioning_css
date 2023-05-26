@@ -1,4 +1,26 @@
 body{
     background-color: #D6E8DB;
     text-align: center;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h1{
+    margin: 0 auto;
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+.middle-cloud{
+    position: absolute;
+    left: 30%;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 30%;
+    top: 20px;
+}
+
+.top-container{
+    padding: 60px;
 }
