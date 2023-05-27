@@ -3,24 +3,55 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 
+h2{
+  font-size: 2rem;
+  margin-top: 5px;
+  color: #66BFBF;
+}
+
+h1{
+  color: #66BFBF;  
+  line-height: 2;
+}
+
+h3{
+  color: #11999E;
+}
+
+.position{
+  font-weight: normal;
+}
+
 .handWriteName {
   margin: 0 auto;
   font-family: 'Delicious Handrawn', cursive;
+  font-size: 4rem;
 }
 
 .middle-cloud {
   position: absolute;
-  left: 30%;
+  left: 10%;
+}
+
+.middle-cloud2 {
+  position: absolute;
+  left: 80%;
+  top: 30%;
 }
 
 .top-cloud {
   position: absolute;
   right: 30%;
-  top: 20px;
+  top: 10px;
+}
+
+.top-cloud2{
+  position: absolute;
+  left: 25%;
 }
 
 .top-container {
-  padding: 60px;
+  padding: 100px;
   background-color: #d6e8db;
 }
 
