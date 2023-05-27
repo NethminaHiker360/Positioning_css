@@ -49,6 +49,24 @@ h3{
   position: absolute;
   left: 25%;
 }
+.skill-text{
+  text-align: left;
+}
+
+.skills{
+  width: 50%;
+  margin: 60px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-img{
+  width: 25%;
+  border-radius: 90%;
+}
+
+.skill1{
+  margin-bottom: 50px;
+}
 
 .top-container {
   padding: 100px;
@@ -59,12 +77,4 @@ h3{
   width: 150px;
   border-radius: 90%;
   background-color: #F8F6F4;
-}
-
-.camera-img {
-  border-radius: 90%;
-}
-
-.img-computer {
-  border-radius: 90%;
 }
