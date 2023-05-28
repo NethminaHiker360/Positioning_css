@@ -1,6 +1,8 @@
 body {
   text-align: center;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Nunito', sans-serif;  
+  font-weight: 500;
+  margin: 0 0;
 }
 
 h2 {
@@ -18,14 +20,27 @@ h3 {
   color: #11999e;
 }
 
+#mySkill{
+  margin: 50px 0 50px 0 ;
+}
+
 .position {
   font-weight: normal;
+  margin-bottom: 90px;
+}
+.dotboader{
+  border-style: dotted;
+  border-width: 8px 0 0 0;
+  width: 5%;
+  margin: 0 auto;
+  border-color: rgb(198, 196, 196);
 }
 
 .handWriteName {
   margin: 0 auto;
-  font-family: 'Delicious Handrawn', cursive;
-  font-size: 4rem;
+  font-family: 'Yesteryear', cursive;
+  font-size: 5rem;
+  font-weight: 100;
 }
 
 .middle-cloud {
@@ -45,6 +60,19 @@ h3 {
   top: 10px;
 }
 
+.contactme{
+  width: 100px;
+  height: 35px;
+  background-color: #9bece6;
+  position: relative;
+  left: 50%;
+}
+
+.contactLink{
+  margin: 0 0;
+  background-color: #66bfbf;
+}
+
 .top-cloud2 {
   position: absolute;
   left: 25%;
@@ -54,7 +82,6 @@ h3 {
 }
 .skill-text2 {
   text-align: left;
-  /* clear: right; */
 }
 
 .skills {
