@@ -49,8 +49,12 @@ h3 {
   position: absolute;
   left: 25%;
 }
-.skill-text {
+.skill-text1 {
   text-align: left;
+}
+.skill-text2 {
+  text-align: left;
+  /* clear: right; */
 }
 
 .skills {
