@@ -61,16 +61,23 @@ h3 {
 }
 
 .contactme{
-  width: 100px;
+  width: 120px;
   height: 35px;
   background-color: #9bece6;
-  position: relative;
-  left: 50%;
+  border-radius: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto 10px;
+  color: white;
+  font-weight: 400;
+  border:none;
+  cursor: pointer;
 }
 
 .contactLink{
   margin: 0 0;
-  background-color: #66bfbf;
+  background-color: #9bece6;
 }
 
 .top-cloud2 {
@@ -108,6 +115,11 @@ h3 {
 .top-container {
   padding: 100px;
   background-color: #d6e8db;
+}
+
+#copyright{
+  margin: 0 0;
+  padding: 15px 0;
 }
 
 .myPicture {
