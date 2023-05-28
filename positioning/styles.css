@@ -3,22 +3,22 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 
-h2{
+h2 {
   font-size: 2rem;
   margin-top: 5px;
-  color: #66BFBF;
+  color: #66bfbf;
 }
 
-h1{
-  color: #66BFBF;  
+h1 {
+  color: #66bfbf;
   line-height: 2;
 }
 
-h3{
-  color: #11999E;
+h3 {
+  color: #11999e;
 }
 
-.position{
+.position {
   font-weight: normal;
 }
 
@@ -45,26 +45,32 @@ h3{
   top: 10px;
 }
 
-.top-cloud2{
+.top-cloud2 {
   position: absolute;
   left: 25%;
 }
-.skill-text{
+.skill-text {
   text-align: left;
 }
 
-.skills{
+.skills {
   width: 50%;
   margin: 60px auto;
   text-align: left;
   line-height: 2;
 }
-.skill-img{
+.skill-img1 {
   width: 25%;
   border-radius: 90%;
+  float: left;
+  margin-right: 30px;
 }
-
-.skill1{
+.skill-img2 {
+  width: 25%;
+  border-radius: 90%;
+  float: right;
+}
+.skill1 {
   margin-bottom: 50px;
 }
 
@@ -76,5 +82,5 @@ h3{
 .myPicture {
   width: 150px;
   border-radius: 90%;
-  background-color: #F8F6F4;
+  background-color: #f8f6f4;
 }
