@@ -135,9 +135,17 @@ a{
 
 }
 
+a:hover{
+  color: #021716;
+
+}
+
 #copyright{
   margin: 0 0;
   padding: 15px 0;
+  color: white;
+  font-size: 0.85rem;
+  padding: 20px;
 }
 
 .myPicture {
