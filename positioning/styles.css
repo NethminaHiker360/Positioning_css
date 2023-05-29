@@ -129,6 +129,12 @@ h3 {
   background-color: #d6e8db;
 }
 
+a{
+  margin: 10px 20px;
+  color: #00948a;
+
+}
+
 #copyright{
   margin: 0 0;
   padding: 15px 0;
