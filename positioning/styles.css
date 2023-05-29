@@ -3,6 +3,7 @@ body {
   font-family: 'Nunito', sans-serif;  
   font-weight: 500;
   margin: 0 0;
+  color: #40514E;
 }
 
 h2 {
@@ -35,6 +36,17 @@ h3 {
   margin: 0 auto;
   border-color: rgb(198, 196, 196);
 }
+
+.dotboader2{
+  border-style: dotted;
+  border-width: 8px 0 0 0;
+  width: 5%;
+  margin: 0 auto;
+  border-color: rgb(198, 196, 196);
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
 
 .handWriteName {
   margin: 0 auto;
@@ -126,4 +138,35 @@ h3 {
   width: 150px;
   border-radius: 90%;
   background-color: #f8f6f4;
+}
+
+
+.btn {
+  background: #3290cf;
+  background-image: -webkit-linear-gradient(top, #3290cf, #96edf5);
+  background-image: -moz-linear-gradient(top, #3290cf, #96edf5);
+  background-image: -ms-linear-gradient(top, #3290cf, #96edf5);
+  background-image: -o-linear-gradient(top, #3290cf, #96edf5);
+  background-image: linear-gradient(to bottom, #3290cf, #96edf5);
+  -webkit-border-radius: 30;
+  -moz-border-radius: 30;
+  border-radius: 30px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-bottom: 30px;
+  border: none;
+
+}
+
+.btn:hover {
+  background: #50f2ef;
+  background-image: -webkit-linear-gradient(top, #50f2ef, #96edf5);
+  background-image: -moz-linear-gradient(top, #50f2ef, #96edf5);
+  background-image: -ms-linear-gradient(top, #50f2ef, #96edf5);
+  background-image: -o-linear-gradient(top, #50f2ef, #96edf5);
+  background-image: linear-gradient(to bottom, #50f2ef, #96edf5);
+  text-decoration: none;
 }
